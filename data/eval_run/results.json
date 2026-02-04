@@ -1,0 +1,1627 @@
+[
+  {
+    "qid":"q0000",
+    "question":"In which year is Toroidal solenoid mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Toroidal_solenoid"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Coelophysidae are extinct.",
+    "retrieval_time_sec":3.6116,
+    "total_time_sec":20.5353,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0001",
+    "question":"Give one important numeric figure mentioned for Toroidal solenoid in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Toroidal_solenoid"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"t + x ) is higher than the other (say n y displaystyle n_y )",
+    "retrieval_time_sec":6.416,
+    "total_time_sec":29.5829,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0002",
+    "question":"In which year is Impeachment of Wilson Witzel mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Impeachment_of_Wilson_Witzel"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Wright alleges the presence of a Soviet mole within MI5, specifically accusing former Director-General Sir Roger Hollis.",
+    "retrieval_time_sec":4.1813,
+    "total_time_sec":24.5583,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0003",
+    "question":"Give one important numeric figure mentioned for Impeachment of Wilson Witzel in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Impeachment_of_Wilson_Witzel"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"freedmen, a now emerging class. The funerary relief of the Rabirii, which came from the Appian Way, shows three figures, including a pair of freed men.",
+    "retrieval_time_sec":3.6043,
+    "total_time_sec":28.0665,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0004",
+    "question":"What is Sigrid Andrea Bernardo?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Sigrid_Andrea_Bernardo"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"--- same year in which her novel Rituals of the Season picked up yet another Agatha nomination.",
+    "retrieval_time_sec":4.8998,
+    "total_time_sec":31.7337,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0005",
+    "question":"In which year is Sigrid Andrea Bernardo mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Sigrid_Andrea_Bernardo"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"EPEK. 1997. Ganau Casas, Mallarach Isern. “Planificació estratégica territorial a Catalunya”. 2003. Pascual Esteve, Josep Ma. “La gestión estrategica de las ciudades”. 2002.",
+    "retrieval_time_sec":4.1335,
+    "total_time_sec":38.8096,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0006",
+    "question":"Give one important numeric figure mentioned for Sigrid Andrea Bernardo in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Sigrid_Andrea_Bernardo"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Critics' Week was created in 1962, after the French Syndicate of Cinema Critics.",
+    "retrieval_time_sec":5.4037,
+    "total_time_sec":26.6347,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0007",
+    "question":"What is Some Buried Caesar?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Some_Buried_Caesar"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Nero's Villa at Anzio, dating to the period 88 to 55 BCE and containing the Roman calendar of Numa Pompilius, which preceded the reform of Gaius Julius Caesar, including Roman festivals and a list of the main magistracies, such as that of consuls and censors from the period 173 to 67 BCE.",
+    "retrieval_time_sec":5.466,
+    "total_time_sec":43.7113,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0008",
+    "question":"In which year is Some Buried Caesar mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Some_Buried_Caesar"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Roman sarcophagus and remains of other figures (from the Campus Martius), datable to the first century, which belonged to a frieze celebrating a Roman victory along the northern borders.",
+    "retrieval_time_sec":5.9685,
+    "total_time_sec":42.0319,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0009",
+    "question":"Give one important numeric figure mentioned for Some Buried Caesar in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Some_Buried_Caesar"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Octavius Flamininus, the victor of Cynoscephalae. The masterpiece of late republican portraiture is the statue of the so-called \"General of Tivoli\" (from the sanctuary of Hercules the Victor, from the beginning of the first century BCE).",
+    "retrieval_time_sec":3.7766,
+    "total_time_sec":40.1652,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0010",
+    "question":"In which year is 2021–22 Clemson Tigers men's basketball team mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/2021–22_Clemson_Tigers_men's_basketball_team"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Women's cricket is beginning to be played at professional level in 11 of the 12 full members of the International Cricket Council (ICC), and is played worldwide, especially in Commonwealth nations. The first recorded cricket match between women was held in England on 26 July 1745.",
+    "retrieval_time_sec":3.8004,
+    "total_time_sec":32.5598,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0011",
+    "question":"Give one important numeric figure mentioned for 2021–22 Clemson Tigers men's basketball team in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/2021–22_Clemson_Tigers_men's_basketball_team"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"India Women's Cricket Inter Zonal Three Day Game, which ended after the 2017–",
+    "retrieval_time_sec":3.6275,
+    "total_time_sec":22.367,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0012",
+    "question":"What is Tommaso Scuffia?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Tommaso_Scuffia"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Mozart's skull was exhumed in 1801, and in 1989–1991 it was examined for identification by several scientists.",
+    "retrieval_time_sec":3.9269,
+    "total_time_sec":23.9688,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0013",
+    "question":"In which year is Tommaso Scuffia mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Tommaso_Scuffia"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The National Progressive Centre Union (Greek: (), romanized: Ethniki Proodeftiki Enosis Kentrou, EPEK) was a Greek Venizelist political party.",
+    "retrieval_time_sec":3.7415,
+    "total_time_sec":30.1235,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0014",
+    "question":"Give one important numeric figure mentioned for Tommaso Scuffia in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Tommaso_Scuffia"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"It was carved after 1506, given its high quality and artistic",
+    "retrieval_time_sec":6.4482,
+    "total_time_sec":22.8267,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0015",
+    "question":"Why (as per the context) is Tommaso Scuffia described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Tommaso_Scuffia"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The ephemeral value of riches in the face of the inevitability of death, in parallel to the pictorial genre of the vanitas.",
+    "retrieval_time_sec":4.4736,
+    "total_time_sec":36.3606,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0016",
+    "question":"What is Rheingau Musik Festival?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rheingau_Musik_Festival"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":0.8,
+    "generated_answer":"The Rheingau Musik Festival e. V. was founded by Michael Herrmann, Tatiana von Metternich-Winneburg, Walter Fink, Hans Otto Jung, Michael Bolenius, Hans-Clemens Lucht, Ulrich Rosin and Claus Wisser. The association organized the festival from the first season in 1988 which included 19 concerts until 1992. It has continued to support the festival since.",
+    "retrieval_time_sec":3.6845,
+    "total_time_sec":54.6232,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0017",
+    "question":"In which year is Rheingau Musik Festival mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rheingau_Musik_Festival"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Sol Gabetta 2014 Frank Peter Zimmermann 2016 Isabelle Faust 2017 Igor Levit 2018 Annette Dasch 2019 Daniil Trifonov 2020 Cancellation Rheingau Musik Festival 2020 2021 Khatia Buniatishvili 2023",
+    "retrieval_time_sec":4.1899,
+    "total_time_sec":40.242,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0018",
+    "question":"Give one important numeric figure mentioned for Rheingau Musik Festival in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rheingau_Musik_Festival"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":0.7777777778,
+    "generated_answer":"The Rheingau Musik Festival is traditionally opened in Eberbach Abbey by a concert of the hr-Sinfonieorchester, broadcast live. The first concert was on 23 June 1988 a performance of two works by C. P. E. Bach, his Magnificat and the oratorio Die Israeliten in der Wüste. Frieder Bernius conducted the Kammerchor Stuttgart and the Barockorchester Stuttgart, with soloists Nancy Argenta, Lena Lootens, Mechthild Georg, Howard Crook and Stephen Roberts. In 2001, Dave Brubeck and his quartet appeared with the Jacques Loussier Trio. Chick Corea visited in 2009 and jammed with Roy Haynes, whose band had opened the concert. Other artists of 2009 included Colin Davis, Ludwig Güttler.",
+    "retrieval_time_sec":3.8185,
+    "total_time_sec":92.5271,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0019",
+    "question":"What is Aleksander Knavs?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Aleksander_Knavs"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"philanthropist Werner Lundqvist, who would be a major donor to the local art museum.",
+    "retrieval_time_sec":3.6762,
+    "total_time_sec":32.2656,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0020",
+    "question":"In which year is Aleksander Knavs mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Aleksander_Knavs"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Context and feasibility were emphasized in the 19th century, for example, at École des Beaux-Arts in France, gave much emphasis to the production of beautiful drawings and little to context and feasibility.",
+    "retrieval_time_sec":3.687,
+    "total_time_sec":30.1095,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0021",
+    "question":"Give one important numeric figure mentioned for Aleksander Knavs in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Aleksander_Knavs"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Polyclitean school) and a bronze youth (from the banks of the Tiber, of Hadrianic age that was inspired by models from the fourth century B.C.",
+    "retrieval_time_sec":3.6434,
+    "total_time_sec":33.8714,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0022",
+    "question":"What is Geography of aging?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Geography_of_aging"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"cultural patterns play a key role in how a bioregion is defined.\" Sheila Harrington, in the introduction to Islands of the Salish Sea: A Community Atlas goes one step further, noting that: \"The atlas should be used as a jumping off place for decision making about the future.",
+    "retrieval_time_sec":3.669,
+    "total_time_sec":46.1177,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0023",
+    "question":"What is Women's cricket?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Women's_cricket"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The majority of high-level women's domestic cricket in ICC Full Member countries consists of 50-over and Twenty20 competitions.",
+    "retrieval_time_sec":3.9062,
+    "total_time_sec":26.0743,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0024",
+    "question":"In which year is Women's cricket mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Women's_cricket"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The word 'Kwibuka' means \"to remember\" in Kinyarwanda, the Rwandan national language, and is the title of annual commemorations of the genocide.",
+    "retrieval_time_sec":3.8,
+    "total_time_sec":41.3739,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0025",
+    "question":"Give one important numeric figure mentioned for Women's cricket in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Women's_cricket"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The Women's Cricket Association (WCA) in England began the process of formalising the game and organising international matches. Like many women's sports, the further development of women 's cricket was hampe --- intended for women. The brands NEXX and Lacuna Sports have been launched in the UK to provide clothing and equipment to women who play cricket.",
+    "retrieval_time_sec":3.7567,
+    "total_time_sec":41.7931,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0026",
+    "question":"What is Frontenac, Missouri?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Frontenac,_Missouri"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Age Discrimination in Employment Act (ADEA) and the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution. The provision was upheld, with the case being one of several Supreme Court decisions supporting the principle that \"ambiguous language will not be interpreted to intrude on areas of traditional state authority or important state governmental functions\".",
+    "retrieval_time_sec":3.6889,
+    "total_time_sec":40.2904,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0027",
+    "question":"In which year is Frontenac, Missouri mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Frontenac,_Missouri"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"New York City's Upper East Side.",
+    "retrieval_time_sec":3.6835,
+    "total_time_sec":23.0391,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0028",
+    "question":"Give one important numeric figure mentioned for Frontenac, Missouri in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Frontenac,_Missouri"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":0.5,
+    "generated_answer":"entity properties. --- granular computing is an emerging computing paradigm of information processing that concerns the processing of complex information entities called \"information granules\", which arise in the process of data abstraction and derivation of knowledge from information or data.",
+    "retrieval_time_sec":3.7539,
+    "total_time_sec":35.8989,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0029",
+    "question":"In which year is Plasmaron mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Plasmaron"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Mycenaean syllabary.",
+    "retrieval_time_sec":3.7528,
+    "total_time_sec":23.041,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0030",
+    "question":"Give one important numeric figure mentioned for Plasmaron in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Plasmaron"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"vital to the body's homeostasis.",
+    "retrieval_time_sec":3.7489,
+    "total_time_sec":19.4788,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0031",
+    "question":"What is Embossing tape?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Embossing_tape"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"archival in quality and can be stored for many years.",
+    "retrieval_time_sec":3.6618,
+    "total_time_sec":19.579,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0032",
+    "question":"In which year is Embossing tape mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Embossing_tape"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Catalytic computing is a technique in computer science, relevant to complexity theory, that uses full memory, as well as empty memory space, to perform computations. Full memory is memory that begins in an arbitrary state and must be returned to that state at the end of the computation, for example important data. It was defined by Buhrman, Cleve, Kouck, Loff, and Speelman in 2014 and was named after catalysts in chemistry, based on the metaphorically viewing the full memory as a \"catalyst\", a non-consumed factor critical for the computational \"reaction\" to succeed.",
+    "retrieval_time_sec":3.6842,
+    "total_time_sec":69.2472,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0033",
+    "question":"Give one important numeric figure mentioned for Embossing tape in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Embossing_tape"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Rolls may be encapsulated in polyester or polypropylene film for additional support and protection. This is not recommended, however, for reprographic prints with annotations in friable media.",
+    "retrieval_time_sec":9.3634,
+    "total_time_sec":34.2853,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0034",
+    "question":"Why (as per the context) is Embossing tape described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Embossing_tape"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Van Dyke printers to create accurate, to-scale reproductions of original drawings created on a ...",
+    "retrieval_time_sec":13.5205,
+    "total_time_sec":32.7539,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0035",
+    "question":"What is Maxine Feldman?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Maxine_Feldman"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"--- atoric music, and is associated with contemporary composers active in the 20th century, such as John Cage, Morton Feldman, and Wit ---",
+    "retrieval_time_sec":3.7343,
+    "total_time_sec":27.3787,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0036",
+    "question":"In which year is Maxine Feldman mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Maxine_Feldman"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Franco is not a person in this article. He is a fictional character and not an actual person.",
+    "retrieval_time_sec":3.7037,
+    "total_time_sec":22.4953,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0037",
+    "question":"Give one important numeric figure mentioned for Maxine Feldman in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Maxine_Feldman"
+    ],
+    "first_correct_url_rank":4.0,
+    "reciprocal_rank":0.25,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"KKK in the audience carrying placards that read, 'Kill all dykes, kikes",
+    "retrieval_time_sec":3.5953,
+    "total_time_sec":24.0434,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0038",
+    "question":"What is Vasthuvidya Gurukulam?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Vasthuvidya_Gurukulam"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Deuda Khel is a Nepali genre of song and dance, originated by Khas community and performed in the Sudurpashchim and Karnali provinces of Nepal, as well as in the Kumaon Division of Uttarakhand state of India.",
+    "retrieval_time_sec":3.6418,
+    "total_time_sec":46.7186,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0039",
+    "question":"In which year is Vasthuvidya Gurukulam mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Vasthuvidya_Gurukulam"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"History of Chinese Philosophy (2 vols.",
+    "retrieval_time_sec":3.6078,
+    "total_time_sec":32.3732,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0040",
+    "question":"Give one important numeric figure mentioned for Vasthuvidya Gurukulam in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Vasthuvidya_Gurukulam"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Amritsar sarais include: Shri",
+    "retrieval_time_sec":3.6752,
+    "total_time_sec":19.0393,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0041",
+    "question":"What is Rick Cua?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rick_Cua"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Biden's worldview, so he was unable to have a son.",
+    "retrieval_time_sec":3.6117,
+    "total_time_sec":21.4594,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0042",
+    "question":"In which year is Rick Cua mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rick_Cua"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"In 1971, Peter Berg, who would go on to found the Planet Drum foundation, and become a leading proponent of \"bioregions\" learned of the term in 1971 while Judy Goldhaft and Peter Berg were staying with Allen Van Newkirk, before Berg attended the first United Nations Conference on the Human Environment in Stockholm during June 1972.",
+    "retrieval_time_sec":3.6787,
+    "total_time_sec":43.3387,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0043",
+    "question":"Give one important numeric figure mentioned for Rick Cua in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rick_Cua"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Most Favored Nation Drug Pricing policy was repealed.",
+    "retrieval_time_sec":3.7661,
+    "total_time_sec":19.7706,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0044",
+    "question":"What is Musical escapism?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Musical_escapism"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or otherwise expressive content. Music is generally agreed to be a cultural universal that is present in all human societies. Definitions of music vary widely in substance and approach. While scholars agree that music is defined by a small number of specific elements, there is no consensus as to what these necessary elements are.",
+    "retrieval_time_sec":3.7703,
+    "total_time_sec":42.5274,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0045",
+    "question":"In which year is Bombardment of Papeete mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Bombardment_of_Papeete"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"ltzmann constant, T displaystyle T the temperature, Z ( T ) displaystyle Z(T) of the ice is",
+    "retrieval_time_sec":5.4519,
+    "total_time_sec":29.1514,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0046",
+    "question":"Give one important numeric figure mentioned for Bombardment of Papeete in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Bombardment_of_Papeete"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"coal piles stored on the island, but these were destroyed by the French at the start of the action. The German vessels were largely undamaged but the French lost their gunboat. Several of Papeete's buildings were destroyed and the town's economy was severely disrupted. The main strategic consequence of the engagement was --- te, the ships steamed out towards Nuku Hiva to meet Nürnberg, Titania, and colliers waiting there. Overall, the bombardment was estimated --- al Christopher Cradock of the German intentions thus leading to the Battle of Coronel. Another effect was the reduction of ammunition available to the two German cruisers.",
+    "retrieval_time_sec":3.6311,
+    "total_time_sec":69.5817,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0047",
+    "question":"What is Extra (cricket)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Extra_(cricket)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"a full toss above waist high (a beamer), or for dangerous or unfair short pitched bowling. The penalty for a no-ball is one run (or, in some one-day competitions, two runs, and\/or a free hit).",
+    "retrieval_time_sec":3.6274,
+    "total_time_sec":39.656,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0048",
+    "question":"Why (as per the context) is Extra (cricket) described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Extra_(cricket)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Cricket balls can reach speeds of over 160km\/h (100mph) when bowled by pace bowlers and made",
+    "retrieval_time_sec":3.7059,
+    "total_time_sec":24.1533,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0049",
+    "question":"In which year is Romanian Australians mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Romanian_Australians"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"has increased its trade with Australia by more than 5% in the first year of the FTA.",
+    "retrieval_time_sec":3.7063,
+    "total_time_sec":21.7288,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0050",
+    "question":"Give one important numeric figure mentioned for Romanian Australians in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Romanian_Australians"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Liverpool and District against the touring Australians, he took his best bowling figures in an innings that season, claiming seven wickets for 72. Crossland took a pair of five-wicket hauls against Surrey in late August to finish with eleven wickets in the match.",
+    "retrieval_time_sec":6.3072,
+    "total_time_sec":44.0204,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0051",
+    "question":"In which year is Saint James High School (New Jersey) mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Saint_James_High_School_(New_Jersey)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"calaboose (jail).",
+    "retrieval_time_sec":3.932,
+    "total_time_sec":23.7917,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0052",
+    "question":"Give one important numeric figure mentioned for Saint James High School (New Jersey) in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Saint_James_High_School_(New_Jersey)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"a large garden and a small orchard.",
+    "retrieval_time_sec":3.7732,
+    "total_time_sec":19.718,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0053",
+    "question":"What is Fairwood, Spokane County, Washington?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Fairwood,_Spokane_County,_Washington"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"bioregion are generally rigid – nature works with more flexibility and fluidity than that – but the general contours of the bioregion",
+    "retrieval_time_sec":3.8379,
+    "total_time_sec":25.7655,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0054",
+    "question":"In which year is Fairwood, Spokane County, Washington mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Fairwood,_Spokane_County,_Washington"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Andrews was a member of the convention that organized the separation of the American Episcopal Church from the Anglican Church. He later advocated for union with the Methodist Church. In 1785, Washington College in Chestertown, Maryland, awarded Andrews an honorary Doctor of Divinity.",
+    "retrieval_time_sec":3.8079,
+    "total_time_sec":38.4002,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0055",
+    "question":"Give one important numeric figure mentioned for Fairwood, Spokane County, Washington in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Fairwood,_Spokane_County,_Washington"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":0.5,
+    "generated_answer":"Not available in context. --- Ferenc Farkas de Boldogfa (1742–1807) Jesuit priest, parish priest of Nemesapáti, poet, master canon of the Diocese of Veszprém.",
+    "retrieval_time_sec":3.7662,
+    "total_time_sec":37.2569,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0056",
+    "question":"In which year is Karel Kalaš mentioned as being founded\/established\/formed (as per the context)?",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Karel_Kalaš"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Formal architectural training in the 19th century, for example, at École des Beaux-Arts in France, gave much emphasis to the production of beautiful drawings and little to context and feasibility.",
+    "retrieval_time_sec":3.8154,
+    "total_time_sec":29.0201,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0057",
+    "question":"Give one important numeric figure mentioned for Karel Kalaš in the context.",
+    "category":"factual",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Karel_Kalaš"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"CS Romontois in Switzerland before moving within the country to Wohlen",
+    "retrieval_time_sec":4.1598,
+    "total_time_sec":22.1559,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0058",
+    "question":"Why (as per the context) is Deuda (genre) described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Deuda_(genre)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Many definitions of philosophy emphasize its intimate relation to science.",
+    "retrieval_time_sec":3.6895,
+    "total_time_sec":20.7133,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0059",
+    "question":"Why (as per the context) is The Ghost Division described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/The_Ghost_Division"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Cantor's set theory. In the same period, various areas of mathematics concluded the former intuitive definitions of the basic mathematical objects were insufficient for ensuring mathematical rigour. This became the foundational crisis of mathematics.",
+    "retrieval_time_sec":4.0712,
+    "total_time_sec":40.1178,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0060",
+    "question":"Why (as per the context) is Functional information described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Functional_information"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"field definitions and formatting are stored in the entity synchronization layer with the data they are acting on. Allows fields and formatting to change, without having to hardcode and compile programs. The data itself only needs to be distinguished when it is being acted on or displayed in a specific way.",
+    "retrieval_time_sec":4.1206,
+    "total_time_sec":45.3176,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0061",
+    "question":"Why (as per the context) is Small Island Developing States described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Small_Island_Developing_States"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Alliance of Small Island States (AOSIS) have entered into agreements or sponsorship arrangements related to early-stage deep-sea mining companies in the Clarion-Clipperton Zone (CCZ): The Cook Islands, Kiribati, Nauru, Tonga, and Jamaica.",
+    "retrieval_time_sec":4.364,
+    "total_time_sec":37.4194,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0062",
+    "question":"Why (as per the context) is James Livingston (Canadian politician) described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/James_Livingston_(Canadian_politician)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"is a term used to describe a method of calculating the probability of a given event.",
+    "retrieval_time_sec":4.1294,
+    "total_time_sec":23.0151,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0063",
+    "question":"Why (as per the context) is John Ogilvie (footballer) described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/John_Ogilvie_(footballer)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Philosophy is the study of the biggest patterns of the world as a whole or as the attempt to answer the big questions. Such an approach is pursued by Immanuel Kant.",
+    "retrieval_time_sec":4.001,
+    "total_time_sec":29.1847,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0064",
+    "question":"Why (as per the context) is Names for association football described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Names_for_association_football"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"United States Soccer Football Association from 1945 until 1974, when it adopted its cu --- c).",
+    "retrieval_time_sec":5.8888,
+    "total_time_sec":27.0114,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0065",
+    "question":"Why (as per the context) is Interlingue literature described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Interlingue_literature"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"A social, psychological, spiritual, or political role. Literary criticism is one of the oldest academic disciplines, and is concerned with the literary merit or intellectual significance of specific texts. The study of books and other texts as artifacts or traditions is instead encompassed by textual criticism or the history of the book.",
+    "retrieval_time_sec":3.8692,
+    "total_time_sec":48.4259,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0066",
+    "question":"Why (as per the context) is Souleymane Sané described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Souleymane_Sané"
+    ],
+    "first_correct_url_rank":2.0,
+    "reciprocal_rank":0.5,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Metaphysics is the study of the most general features of reality, such as existence, objects and their properties, wholes and their parts, space and time, events, and causation.",
+    "retrieval_time_sec":5.6485,
+    "total_time_sec":30.0473,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0067",
+    "question":"Why (as per the context) is Rhyme-as-reason effect described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Rhyme-as-reason_effect"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"melodic contour of the song describes the nature of the land over which the song passes. The rhythm is what is crucial to understanding the song. Listening to the song of the country is the same as walking on this songline and observing the land. Songlines have been described as a \"cultural passport\" which, when sung in the language of a particular region and mob, show respect to the people of that country.",
+    "retrieval_time_sec":3.8607,
+    "total_time_sec":50.2746,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0068",
+    "question":"Why (as per the context) is Extreme environment described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Extreme_environment"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"extreme environments or are not known amongst many people.",
+    "retrieval_time_sec":3.9285,
+    "total_time_sec":24.0074,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0069",
+    "question":"Why (as per the context) is Matt Morginsky described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Matt_Morginsky"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":0.6666666667,
+    "generated_answer":"Lambert and Matt reveal themselves to be rather uncouth bullies (\"Teddy boys\", according to some London reviews)—who describe themselves as \"consultants ... Strategy consultants. ...",
+    "retrieval_time_sec":3.9369,
+    "total_time_sec":31.4131,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0070",
+    "question":"Why (as per the context) is Most Hated described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Most_Hated"
+    ],
+    "first_correct_url_rank":null,
+    "reciprocal_rank":0.0,
+    "precision@5":0.0,
+    "faithfulness":1.0,
+    "generated_answer":"Frenesy complements the notion of entropy production (which measures time-antisymmetric aspects associated with irreversibility), and represents how frequently states are visited or how many transitions occur over time, as well as how busy the system's trajectories are.",
+    "retrieval_time_sec":3.7921,
+    "total_time_sec":38.005,
+    "error_type":"retrieval_failure"
+  },
+  {
+    "qid":"q0071",
+    "question":"Why (as per the context) is Elite theory described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Elite_theory"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Cantor's diagonal argument. It was eventually solved in mainstream mathematics by systematizing the axiomatic method inside a formalized set theory. Roughly speaking, each mathematical object is defined by the set of all similar objects and the properties that these objects must have. For example, in Peano arithmetic, the natural numbers are defined by \"zero is a number\", \"each number has a unique successor\", and some rules of rea --- it is used to explain why economic behavior does not conform to the theory of supply and demand.",
+    "retrieval_time_sec":4.1776,
+    "total_time_sec":58.8339,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0072",
+    "question":"Why (as per the context) is Thermal energy described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Thermal_energy"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"demonstrates that economic elites tied their advocacy of the nuclear energy option to post-1945 American foreign policy goals, while at the same time these elites opposed government support for other forms of energy such as solar, that cannot be dominated by one nation.",
+    "retrieval_time_sec":3.69,
+    "total_time_sec":36.5299,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0073",
+    "question":"Why (as per the context) is Ole Kruse described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Ole_Kruse"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"dynamical conditions.",
+    "retrieval_time_sec":3.6641,
+    "total_time_sec":29.9721,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0074",
+    "question":"Why (as per the context) is Comedy of menace described in this way?",
+    "category":"inferential",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Comedy_of_menace"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"not questioning the agreed system and who is ultimately destroyed by his quest for meaning\"",
+    "retrieval_time_sec":3.6973,
+    "total_time_sec":21.2191,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0075",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Spatial biology or Kali (software)?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Spatial_biology",
+      "https:\/\/en.wikipedia.org\/wiki\/Kali_(software)"
+    ],
+    "first_correct_url_rank":5.0,
+    "reciprocal_rank":0.2,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The minor cost savings proved largely ineffective against Kali, and Kahn never achieved much market share. The market for Kali eventually dried up as games began to host their own online services, such as battle.net, MSN Gaming Zone, and also through direct TCP\/IP connections, made easier by Microsoft's DirectPlay package. As IPX itself was phased out, Kali's unique emulation technology fell by the wayside and the soft --- omatic system—if powerful enough to describe arithmetic—will contain true propositions that cannot be proved.",
+    "retrieval_time_sec":3.7786,
+    "total_time_sec":58.7359,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0076",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Alfred Hopkinson or Vitaliy Mykolenko?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Alfred_Hopkinson",
+      "https:\/\/en.wikipedia.org\/wiki\/Vitaliy_Mykolenko"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Classicist Bernard Knox made direct reference to this topic when he delivered his 1992 Jefferson Lecture (the U.S. federal government's highest honor for achievement in the humanities).",
+    "retrieval_time_sec":3.7882,
+    "total_time_sec":27.7892,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0077",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: FMW 7th Anniversary Show or BRP Simeon Castro?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/FMW_7th_Anniversary_Show",
+      "https:\/\/en.wikipedia.org\/wiki\/BRP_Simeon_Castro"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Castilla-La Mancha, 1908)",
+    "retrieval_time_sec":3.8145,
+    "total_time_sec":20.541,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0078",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Transatlantic cables incident or Fort Nelson, British Columbia?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Transatlantic_cables_incident",
+      "https:\/\/en.wikipedia.org\/wiki\/Fort_Nelson,_British_Columbia"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"First Regional Municipality in the Province of British Columbia.",
+    "retrieval_time_sec":3.8016,
+    "total_time_sec":21.0077,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0079",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Fielding (cricket) or Naval battles of Narvik?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Fielding_(cricket)",
+      "https:\/\/en.wikipedia.org\/wiki\/Naval_battles_of_Narvik"
+    ],
+    "first_correct_url_rank":3.0,
+    "reciprocal_rank":0.3333333333,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Innings were a division of a match in which one team takes its turn to bat.",
+    "retrieval_time_sec":3.779,
+    "total_time_sec":22.1021,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0080",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Lansdown Centre for Electronic Arts or Futurism (literature)?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Lansdown_Centre_for_Electronic_Arts",
+      "https:\/\/en.wikipedia.org\/wiki\/Futurism_(literature)"
+    ],
+    "first_correct_url_rank":2.0,
+    "reciprocal_rank":0.5,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"The Canon of Dutch Literature comprises a list of 1000 works of Dutch-language literature important to the cultural heritage of the Low Countries, and is published on the DBNL. Several of these works are lists themselves; such as early dictionaries, lists of songs, recipes, biographies, or encyclopedic compilations of information such as mathematical, scientific, medical, or plant reference books. Other items include early translations of literature from other countries, history books, first-hand diaries, and published correspondence. Notable original works can be found by author name.",
+    "retrieval_time_sec":3.7389,
+    "total_time_sec":57.5372,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0081",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Iguanacolossus or Jimmy Calderwood?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Iguanacolossus",
+      "https:\/\/en.wikipedia.org\/wiki\/Jimmy_Calderwood"
+    ],
+    "first_correct_url_rank":2.0,
+    "reciprocal_rank":0.5,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Dons drew 2–2 with Bayern at Pittodrie on 14 February 2008, but the Germans pulled off a convincing 5–1 win the following week.",
+    "retrieval_time_sec":3.7712,
+    "total_time_sec":30.8765,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0082",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Women's cricket or Lahore American School?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Women's_cricket",
+      "https:\/\/en.wikipedia.org\/wiki\/Lahore_American_School"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"The Rational Dress Society had an outfit for cricket in its 1883 catalogue.",
+    "retrieval_time_sec":3.735,
+    "total_time_sec":35.5127,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0083",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Transatlantic cables incident or Jesus Image?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Transatlantic_cables_incident",
+      "https:\/\/en.wikipedia.org\/wiki\/Jesus_Image"
+    ],
+    "first_correct_url_rank":2.0,
+    "reciprocal_rank":0.5,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Orlando, which seats over 9,000 attendees. The Jesus '24 Conference and previous annual gatherings have drawn sizable crowds, showcasing the organization's ability to scale operations beyond its home facility.",
+    "retrieval_time_sec":3.6963,
+    "total_time_sec":29.9284,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0084",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Paul A. Verdier or 1993 Greek Super Cup?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Paul_A._Verdier",
+      "https:\/\/en.wikipedia.org\/wiki\/1993_Greek_Super_Cup"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Northland in the Farah Palmer Cup competition.",
+    "retrieval_time_sec":3.725,
+    "total_time_sec":19.9791,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0085",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Run (cricket) or Small Island Developing States?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Run_(cricket)",
+      "https:\/\/en.wikipedia.org\/wiki\/Small_Island_Developing_States"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Cricket ball is a ball that is used to play cricket.",
+    "retrieval_time_sec":3.962,
+    "total_time_sec":20.7934,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0086",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Littoinen or Janet Manyowa?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Littoinen",
+      "https:\/\/en.wikipedia.org\/wiki\/Janet_Manyowa"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Mil libros (Luis Nueda, Antonio Espina, since 1940 —not limited to the books in Spanish—) Floresta de la lrica espaola (José Manuel Blecua Teijeiro, Antologa Hispánica, Gredos, 1957)",
+    "retrieval_time_sec":3.6999,
+    "total_time_sec":68.8366,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0087",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Holmsley railway station or Tommaso Scuffia?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Holmsley_railway_station",
+      "https:\/\/en.wikipedia.org\/wiki\/Tommaso_Scuffia"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"--- or nations may have different real opportunity costs of production, say from differences in stocks of human capital per worker or capital\/labour ratios.",
+    "retrieval_time_sec":3.7434,
+    "total_time_sec":31.1623,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0088",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Michael Paramo or Charles C. Baldwin?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Michael_Paramo",
+      "https:\/\/en.wikipedia.org\/wiki\/Charles_C._Baldwin"
+    ],
+    "first_correct_url_rank":2.0,
+    "reciprocal_rank":0.5,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"a page number in a book's index; dereferencing such a pointer would be done by flipping to",
+    "retrieval_time_sec":3.7401,
+    "total_time_sec":25.4012,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0089",
+    "question":"Comparative: Which page mentions the larger first numeric value in its intro context: Cara Grzeskowiak or Jimmy Calderwood?",
+    "category":"comparative",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Cara_Grzeskowiak",
+      "https:\/\/en.wikipedia.org\/wiki\/Jimmy_Calderwood"
+    ],
+    "first_correct_url_rank":6.0,
+    "reciprocal_rank":0.1666666667,
+    "precision@5":0.0,
+    "faithfulness":1.0,
+    "generated_answer":"4–0 demolition of FC Copenhagen at Pittodrie. With this great achievement, the Dons were rewarded by drawing FC Bayern Munich.",
+    "retrieval_time_sec":3.727,
+    "total_time_sec":35.8332,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0090",
+    "question":"Multi-hop: What common term connects Orkney Wireless Museum and Anna Sentina in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Orkney_Wireless_Museum",
+      "https:\/\/en.wikipedia.org\/wiki\/Anna_Sentina"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Anna Sentina started a YouTube music channel that by October 2015 had over 21 million views and by July 2021 had over 55 million views.",
+    "retrieval_time_sec":3.7333,
+    "total_time_sec":25.384,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0091",
+    "question":"Multi-hop: What common term connects Bureaucratic drift and Zonotope in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Bureaucratic_drift",
+      "https:\/\/en.wikipedia.org\/wiki\/Zonotope"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Overseeing the actions of bureaucracies and is used to check bureaucratic drift after agencies have acted on policies. Mathew McCubbins and Thomas Schwartz have categorized oversight into two types- police patrol and fire alarm patrol.",
+    "retrieval_time_sec":3.6957,
+    "total_time_sec":33.2215,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0092",
+    "question":"Multi-hop: What common term connects Midwest Football League (1962–1978) and Oil Shale (journal) in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Midwest_Football_League_(1962–1978)",
+      "https:\/\/en.wikipedia.org\/wiki\/Oil_Shale_(journal)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"European Cup Winners' Cup. The most prestigious competition in European club football is the UEFA Champions League.",
+    "retrieval_time_sec":3.8416,
+    "total_time_sec":23.3613,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0093",
+    "question":"Multi-hop: What common term connects Alderwood School and Isotropic bands in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Alderwood_School",
+      "https:\/\/en.wikipedia.org\/wiki\/Isotropic_bands"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"Belle Vue Infant School, Newport Junior School and Alderwood School",
+    "retrieval_time_sec":4.409,
+    "total_time_sec":21.6834,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0094",
+    "question":"Multi-hop: What common term connects Thermodynamic computing and Military history of North America in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Thermodynamic_computing",
+      "https:\/\/en.wikipedia.org\/wiki\/Military_history_of_North_America"
+    ],
+    "first_correct_url_rank":2.0,
+    "reciprocal_rank":0.5,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Algorithms for performing computations have existed since ---",
+    "retrieval_time_sec":3.7508,
+    "total_time_sec":30.4126,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0095",
+    "question":"Multi-hop: What common term connects Extreme environment and Ticks (song) in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Extreme_environment",
+      "https:\/\/en.wikipedia.org\/wiki\/Ticks_(song)"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Hip-hop music. The study of composition has traditionally been dominated by examination of methods and practice of Western classical music, but the definition of composition is broad enough to include the creation of popular hip-hop songs, with frequent references to vid --- atoric music, and is associated with contemporary composers active in the 20th century, such as John Cage, Morton Feldman, and Witold Lutosawski. A commonly known example of chance-based music is the sound of wind chimes jingling in a breeze.",
+    "retrieval_time_sec":3.9031,
+    "total_time_sec":68.6329,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0096",
+    "question":"Multi-hop: What common term connects Peace efforts during World War II and Matlock, Washington in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Peace_efforts_during_World_War_II",
+      "https:\/\/en.wikipedia.org\/wiki\/Matlock,_Washington"
+    ],
+    "first_correct_url_rank":3.0,
+    "reciprocal_rank":0.3333333333,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Axis of Germany, Japan, Italy and others",
+    "retrieval_time_sec":3.6876,
+    "total_time_sec":19.7184,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0097",
+    "question":"Multi-hop: What common term connects Filippo della Valle and 2012 LionsXII season in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Filippo_della_Valle",
+      "https:\/\/en.wikipedia.org\/wiki\/2012_LionsXII_season"
+    ],
+    "first_correct_url_rank":3.0,
+    "reciprocal_rank":0.3333333333,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"\"#kAroche\" 2013 – \"Potantsuy so mnoy\"",
+    "retrieval_time_sec":3.7486,
+    "total_time_sec":31.4122,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0098",
+    "question":"Multi-hop: What common term connects Architecture and Shockwave cosmology in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Architecture",
+      "https:\/\/en.wikipedia.org\/wiki\/Shockwave_cosmology"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.2,
+    "faithfulness":1.0,
+    "generated_answer":"Joey Valence & Bra, \"Shockwave cosmology: an explosion inside a black hole, producing the expanding volume of space and matter that includes the observable universe\"",
+    "retrieval_time_sec":3.793,
+    "total_time_sec":28.6855,
+    "error_type":"no_error"
+  },
+  {
+    "qid":"q0099",
+    "question":"Multi-hop: What common term connects Dale Doig and Rhyme-as-reason effect in the given corpus context?",
+    "category":"multi-hop",
+    "gt_urls":[
+      "https:\/\/en.wikipedia.org\/wiki\/Dale_Doig",
+      "https:\/\/en.wikipedia.org\/wiki\/Rhyme-as-reason_effect"
+    ],
+    "first_correct_url_rank":1.0,
+    "reciprocal_rank":1.0,
+    "precision@5":0.4,
+    "faithfulness":1.0,
+    "generated_answer":"The rhyme-as-reason effect, sometimes errorneously known as the Eaton–Rosen phenomenon, is a cognitive bias where sayings or aphorisms are perceived as more accurate or truthful when they rhyme.",
+    "retrieval_time_sec":3.8195,
+    "total_time_sec":80.5522,
+    "error_type":"no_error"
+  }
+]

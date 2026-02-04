@@ -1,0 +1,11 @@
+{
+  "num_questions": 5,
+  "MRR_url_level": 0.9,
+  "Precision@5_url_level": 0.2,
+  "Faithfulness_avg": 0.9667,
+  "Avg_retrieval_time_sec": 4.545,
+  "Avg_total_time_sec": 38.7359,
+  "Error_counts": {
+    "no_error": 5
+  }
+}
